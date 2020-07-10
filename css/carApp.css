@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+.name_form{
+    color:RGB(250, 128, 114);
+    text-align: center;
+    letter-spacing: 1px;
+}
+.form_label{
+    color: RGB(240, 128, 128);
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
